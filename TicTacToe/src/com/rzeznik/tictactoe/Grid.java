@@ -1,7 +1,8 @@
 package com.rzeznik.tictactoe;
 
 /**
- * public class
+ * public class zmiana z zewnatrz
+ * 
  * @author kasia
  *
  */
