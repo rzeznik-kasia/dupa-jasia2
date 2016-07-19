@@ -1,5 +1,10 @@
 package com.rzeznik.tictactoe;
 
+/**
+ * public class
+ * @author kasia
+ *
+ */
 public class Grid {
 	private char[][] aGrid;
 	public final char[] ALLOWED = new char[] { 'q', 'w', 'e', 'a', 's', 'd', 'z', 'x', 'c' };

@@ -4,6 +4,6 @@ public class GridSpace {
 	int i;
 	int j;
 	GridSpace() {
-		i = 
+		i = 1;
 	}
 }
